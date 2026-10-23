@@ -88,14 +88,14 @@ Our design takes the rack-and-pinion idea from PAWEC and fixes its rust weakness
 | Item | Image | Description | Usage | Cost | Source | Qty |
 |---|:---:|---|---|:---:|---|:---:|
 | Wood | <img width="263" height="152" alt="image" src="https://github.com/user-attachments/assets/429be9c2-1186-4ff2-a6ff-6960b508072f" /> | Board, 20 in wide and 58 in long | Prototype frame and structural support | 0 | Broken desks | 6 boards |
-| Gears | <img src="images/mat-gears.jpg" width="140"> | Metal gears, radius 8.5 cm | Power transmission and adjusting ratios | 495 | Old motorcycle | 6 gears |
-| Iron chain | <img src="images/mat-chain.jpg" width="140"> | Chain of 26 joints | Connecting gears for rotational transfer | 75 | Broken motorcycle | 3 chains |
-| Freewheel | <img src="images/mat-freewheel.jpg" width="140"> | One-way clutch mechanism | Lets the axle spin freely in one direction | 90 | Broken bicycle | 1 |
-| Axes | <img src="images/mat-axes.jpg" width="140"> | Steel rod, 20 cm | Hang the gears and the freewheel | 90 | Broken printer | 3 axes |
-| Ball bearings | <img src="images/mat-bearings.jpg" width="140"> | 10 mm inner / 22 mm outer diameter | Reduce friction on the rotating axes | 75 | Old rollerblades | 6 bearings |
-| Nails | <img src="images/mat-nails.jpg" width="140"> | 6 cm long | Connecting wooden frame parts | 15 | Old wooden furniture | 10 nails |
-| Iron nuts | <img src="images/mat-nuts.jpg" width="140"> | 10 mm diameter | Reinforcing parts on threaded axes | 20 | Old wooden furniture | 12 nuts |
-| Epoxy | <img src="images/mat-epoxy.jpg" width="140"> | Two-part adhesive resin and hardener | Permanent bonding of metal or wood parts | 60 | Downtown Cairo | 2 tubes |
+| Gears | <img width="263" height="198" alt="image" src="https://github.com/user-attachments/assets/37d112c1-9f5b-4180-9670-88204cb101c5" /> | Metal gears, radius 8.5 cm | Power transmission and adjusting ratios | 495 | Old motorcycle | 6 gears |
+| Iron chain | <img width="257" height="159" alt="image" src="https://github.com/user-attachments/assets/2a761887-2fa9-45ea-b511-1ada47991c4f" /> | Chain of 26 joints | Connecting gears for rotational transfer | 75 | Broken motorcycle | 3 chains |
+| Freewheel | <img width="257" height="126" alt="image" src="https://github.com/user-attachments/assets/9de9f3a0-dec7-438d-8f10-bd35f4446797" />| One-way clutch mechanism | Lets the axle spin freely in one direction | 90 | Broken bicycle | 1 |
+| Axes | <img width="254" height="132" alt="image" src="https://github.com/user-attachments/assets/2fd43468-5a2f-43e7-af6f-592c60bfff54" /> | Steel rod, 20 cm | Hang the gears and the freewheel | 90 | Broken printer | 3 axes |
+| Ball bearings | <img width="255" height="164" alt="image" src="https://github.com/user-attachments/assets/adaad4d9-1d99-4777-b874-867a880fa621" /> | 10 mm inner / 22 mm outer diameter | Reduce friction on the rotating axes | 75 | Old rollerblades | 6 bearings |
+| Nails | <img width="294" height="172" alt="image" src="https://github.com/user-attachments/assets/ecce48ac-4052-4a2f-83a0-52ed6a3ff35c" /> | 6 cm long | Connecting wooden frame parts | 15 | Old wooden furniture | 10 nails |
+| Iron nuts | <img width="294" height="166" alt="image" src="https://github.com/user-attachments/assets/54a06ef6-adef-40db-83e0-9de7d00e2fa2" /> | 10 mm diameter | Reinforcing parts on threaded axes | 20 | Old wooden furniture | 12 nuts |
+| Epoxy | <img width="303" height="169" alt="image" src="https://github.com/user-attachments/assets/84031027-72b0-46aa-8acf-6bf832ae39c6" /> | Two-part adhesive resin and hardener | Permanent bonding of metal or wood parts | 60 | Downtown Cairo | 2 tubes |
 
 Other components: a 12 V, 300 RPM DC generator and 4 high-tension springs.
 
