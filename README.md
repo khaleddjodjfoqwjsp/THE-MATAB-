@@ -158,7 +158,7 @@ Other components: a 12 V, 300 RPM DC generator and 4 high-tension springs.
 During assembly, the four 20 cm shafts were not evenly spaced. This jammed the chain-driven transmission and stopped the 15T and 42T gears from rotating freely. We re-measured the spacing and made all shafts parallel before running the electrical tests.
 
 ### Phase 1: without freewheel
-![Phase 1 voltage](images/results-phase1.png)
+![Phase 1 voltage](<img width="456" height="212" alt="image" src="https://github.com/user-attachments/assets/dfe2a8e8-4127-4d02-adae-06b32a67aebf" />)
 
 ### Phase 2: with freewheel
 ![Phase 2 voltage](images/results-phase2.jpg)
