@@ -14,35 +14,20 @@ Built for the **Egyptian Grand Challenge: Improve the use of alternative energie
 | 35.8 % efficiency | **50.3 % efficiency** | |
 
 ---
-
-## 🎬 Demo Video
-
-<!-- HOW TO ADD THE VIDEO:
-Option A (best): while editing this README on github.com, drag and drop your .mp4 file here.
-GitHub uploads it and inserts a link that plays directly in the page.
-Option B: upload the video to YouTube and use:
-[![Watch the demo](images/prototype-full.jpg)](https://youtube.com/your-link)
--->
-
-> 📹 **Demo video goes here**
-
 ---
 
 ## 📌 Table of Contents
 1. [The Problem](#-the-problem)
 2. [Our Solution](#-our-solution)
-3. [Design Requirements](#-design-requirements)
-4. [Prior Solutions](#-prior-solutions)
-5. [Materials](#-materials)
-6. [Methods: How We Built It](#-methods-how-we-built-it)
-7. [Safety Precautions](#-safety-precautions)
-8. [Test Plan](#-test-plan)
-9. [Results](#-results)
-10. [Analysis](#-analysis)
-11. [Conclusion](#-conclusion)
-12. [Recommendations and Real-World Application](#-recommendations-and-real-world-application)
-13. [References](#-references)
-14. [Team and Acknowledgements](#-team-and-acknowledgements)
+3. [Prior Solutions](#-prior-solutions)
+4. [Materials](#-materials)
+5. [Methods: How We Built It](#-methods-how-we-built-it)
+6. [Safety Precautions](#-safety-precautions)
+7. [Test Plan](#-test-plan)
+8. [Results](#-results)
+9. [Analysis](#-analysis)
+10. [References](#-references)
+11. [Team and Acknowledgements](#-team-and-acknowledgements)
 
 ---
 
@@ -69,7 +54,7 @@ Key design choices:
 - **Phase 2 upgrade:** a **freewheel (one-way clutch) and bicycle chain** let the generator keep spinning forward without being dragged backwards when the bump returns up. This is a low-cost change that raised the output by more than 10 %.
 - **Recycled parts:** most materials came from broken or old items.
 
-![3D design of the gear train](images/design-3d-gear-train.jpg)
+<img width="221" height="120" alt="image" src="https://github.com/user-attachments/assets/e4b2ccb4-9a50-47f7-8d5f-a1e0eaa34a1c" />
 *3D design of the gear train*
 
 ## 🔍 Prior Solutions
@@ -161,7 +146,7 @@ During assembly, the four 20 cm shafts were not evenly spaced. This jammed the c
 <img width="456" height="212" alt="Phase 1 voltage" src="https://github.com/user-attachments/assets/61c8d0ef-9621-4387-a7ab-fe8408dd96ba" />
 
 ### Phase 2: with freewheel
-![Phase 2 voltage](images/results-phase2.jpg)
+<img width="436" height="214" alt="image" src="https://github.com/user-attachments/assets/d8f77e76-c044-4e0c-9ebb-9d7062cbe27f" />
 
 | Metric | Phase 1 | Phase 2 |
 |---|:---:|:---:|
@@ -189,25 +174,6 @@ Over 50 strokes in 300 s: `ΣE_in = 9.81 × 50 = 490.5 J`.
 
 In Phase 1, the upward movement of the spring-loaded shafts forced the chain transmission to run backwards at high speed, causing large friction losses. The freewheel lets the generator keep spinning freely on every upstroke, so that loss is removed.
 
-## ✅ Conclusion
-
-- The rack-and-pinion and compound gear train successfully turned a 10 cm linear input into the fast rotation needed by the 12 V generator.
-- The prototype produced **246.9 J in 5 minutes**, above the 150 J requirement.
-- The freewheel upgrade raised efficiency from **35.8 % to 50.3 %**, well above the 10 % improvement target.
-- The design is mechanically reliable, cheap (built from recycled parts) and scalable as a new source of alternative energy in urban areas.
-
-## 🚛 Recommendations and Real-World Application
-
-**Recommended location: Alexandria Port.**
-- It is one of Egypt's most important ports, handling about 10 million tons of cargo per year.
-- About 120 trucks per hour pass through main entrances such as Gates 27 and 54, each weighing about 60 tons.
-- The full-scale bump would be mainly steel to carry these loads.
-- The energy source is wasted mechanical energy, so it does not harm the environment. The project has not been applied before in Egypt.
-
-**Future improvements:**
-- **Neodymium-Iron-Boron magnets instead of steel springs.** There is no mechanical wear because the parts never touch, and they act as shock absorbers. They were not used because they are costly and hard to find at large sizes.
-- **A flywheel.** It keeps rotating after each press and could increase output by about 10 %. It was not used in the prototype because in a crowded street, a second vehicle could press the bump while the flywheel turns the opposite way, which could damage the mechanism.
-
 ## 📚 References
 
 - Aman, A., Kumar, S., & Singh, R. (2018). Design and fabrication of speed breaker power generator using rack and pinion mechanism. *International Journal of Advance Research and Innovation, 6*(1), 48–51.
@@ -218,6 +184,4 @@ In Phase 1, the upward movement of the spring-loaded shafts forced the chain tra
 
 ## 👥 Team and Acknowledgements
 
-**Team:** Yassin Esmat · Abdulrahman Ahmed · Sayed Mostafa · Yasin Ahmad Taha
-
-**Thanks to** our Capstone Manager Mr. Bakheet, Capstone Leader Ms. Dalia, Capstone Teacher Mr. Mostafa, and Dr. Shadi Nabil and Dr. Mahmoud Abd Elraazek for their guidance and support.
+**Team:** Khaled Abdelrahman · Tarek Mahmoud · Sayed Mostafa · Mohamed Reda · Mostafa Shaat 
