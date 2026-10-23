@@ -13,9 +13,6 @@ Built for the **Egyptian Grand Challenge: Improve the use of alternative energie
 | 175.5 J / 5 min | **246.9 J / 5 min** | **+40.6 %** |
 | 35.8 % efficiency | **50.3 % efficiency** | |
 
----
----
-
 ## 📌 Table of Contents
 1. [The Problem](#-the-problem)
 2. [Our Solution](#-our-solution)
