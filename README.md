@@ -103,7 +103,7 @@ Other components: a 12 V, 300 RPM DC generator and 4 high-tension springs.
 
 **1. Frame.** Wooden panels formed the walls and base. The side panels were nailed to the base so the frame can resist the forces from the mechanical parts.
 
-<p align="center"><img src="images/build-1-frame.jpg" width="260"></p>
+<p align="center"><img width="250" height="196" alt="image" src="https://github.com/user-attachments/assets/0c4bd09a-f544-4f95-b033-7fe02be51bfe" /></p>
 
 **2. Bearings.** Six holes (2.5 cm radius) were drilled in opposite walls with a high-torque drill. Ball bearings were fitted into them to limit friction.
 
