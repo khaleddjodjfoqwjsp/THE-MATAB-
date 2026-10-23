@@ -107,27 +107,27 @@ Other components: a 12 V, 300 RPM DC generator and 4 high-tension springs.
 
 **2. Bearings.** Six holes (2.5 cm radius) were drilled in opposite walls with a high-torque drill. Ball bearings were fitted into them to limit friction.
 
-<p align="center"><img src="images/build-2-bearings.jpg" width="260"></p>
+<p align="center"><img width="218" height="196" alt="image" src="https://github.com/user-attachments/assets/c425dc96-0837-41b6-ae1d-157ddfb52c11" /></p>
 
 **3. Gears and axes.** The gears were fixed firmly onto the steel axes so they stay at a set rotational position.
 
-<p align="center"><img src="images/build-3-gears-axes.jpg" width="260"></p>
+<p align="center"><img width="262" height="172" alt="image" src="https://github.com/user-attachments/assets/d0fa8779-aa48-4cc9-8cba-06ec1057ffd9" /></p>
 
 **4. Mounting the axes.** The axle and gear assemblies were placed in the ball bearings for smooth, centered rotation.
 
-<p align="center"><img src="images/build-4-axes-mounted.jpg" width="260"></p>
+<p align="center"><img width="236" height="155" alt="image" src="https://github.com/user-attachments/assets/e128559a-08e3-42e6-b596-b97f212351e3" /></p>
 
 **5. Rack-and-pinion and generator.** A rack was attached to a sliding wooden frame that moves vertically. It is coupled to the freewheel, which drives the final gear through a chain. The final gear is connected to the generator by another chain.
 
-<p align="center"><img src="images/build-5-generator.jpg" width="260"></p>
+<p align="center"><img width="234" height="199" alt="image" src="https://github.com/user-attachments/assets/cb0d0061-b238-4cc7-9052-30591c76b95e" /></p>
 
 **6. Return springs.** High-tension springs were wrapped around pens to give predictable spring strength. They pull the moving part back up after the pressure is released, and the lid is fixed on top of them.
 
-<p align="center"><img src="images/build-6-springs.jpg" width="260"></p>
+<p align="center"><img width="220" height="199" alt="image" src="https://github.com/user-attachments/assets/2546e057-6ac3-4ae2-9d69-0fc7ad260752" /></p>
 
 ### Final prototype
 
-<p align="center"><img src="images/prototype-full.jpg" width="420"></p>
+<p align="center"><img width="250" height="140" alt="image" src="https://github.com/user-attachments/assets/4d2d4014-bcdf-4b8f-b98b-35dcd857642f" /></p>
 
 ## 🦺 Safety Precautions
 
