@@ -72,16 +72,6 @@ Key design choices:
 ![3D design of the gear train](images/design-3d-gear-train.jpg)
 *3D design of the gear train*
 
-## 🎯 Design Requirements
-
-| Requirement | Target |
-|---|---|
-| Energy produced | At least **150 J in 5 minutes** |
-| Volume | **0.25 m³** |
-| Durability | Built for heavy loads (60-ton trucks in the full-scale version) |
-| Corrosion | Fully enclosed to prevent rust |
-| Phase 2 efficiency gain | At least **10 %** |
-
 ## 🔍 Prior Solutions
 
 | Solution | Strength | Weakness |
@@ -97,7 +87,7 @@ Our design takes the rack-and-pinion idea from PAWEC and fixes its rust weakness
 
 | Item | Image | Description | Usage | Cost | Source | Qty |
 |---|:---:|---|---|:---:|---|:---:|
-| Wood | <img src="images/mat-wood.png" width="140"> | Board, 20 in wide and 58 in long | Prototype frame and structural support | 0 | Broken desks | 6 boards |
+| Wood | <img width="263" height="152" alt="image" src="https://github.com/user-attachments/assets/429be9c2-1186-4ff2-a6ff-6960b508072f" /> | Board, 20 in wide and 58 in long | Prototype frame and structural support | 0 | Broken desks | 6 boards |
 | Gears | <img src="images/mat-gears.jpg" width="140"> | Metal gears, radius 8.5 cm | Power transmission and adjusting ratios | 495 | Old motorcycle | 6 gears |
 | Iron chain | <img src="images/mat-chain.jpg" width="140"> | Chain of 26 joints | Connecting gears for rotational transfer | 75 | Broken motorcycle | 3 chains |
 | Freewheel | <img src="images/mat-freewheel.jpg" width="140"> | One-way clutch mechanism | Lets the axle spin freely in one direction | 90 | Broken bicycle | 1 |
