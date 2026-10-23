@@ -54,6 +54,7 @@ Key design choices:
 - **Recycled parts:** most materials came from broken or old items.
 
 <img width="221" height="120" alt="image" src="https://github.com/user-attachments/assets/e4b2ccb4-9a50-47f7-8d5f-a1e0eaa34a1c" />
+
 *3D design of the gear train*
 
 ## 🔍 Prior Solutions
